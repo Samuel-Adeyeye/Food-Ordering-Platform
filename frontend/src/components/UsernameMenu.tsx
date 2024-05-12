@@ -20,7 +20,7 @@ const UsernameMenu = () => {
       </DropdownMenuTrigger>
       <DropdownMenuContent>
         <DropdownMenuItem>
-          <Link to="user/-profile" className="text-bold hover:text-orange-500">
+          <Link to="/user-profile" className="text-bold hover:text-orange-500">
             User Profile
           </Link>
         </DropdownMenuItem>
